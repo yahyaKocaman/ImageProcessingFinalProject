@@ -1,0 +1,23 @@
+UYG332 IMAGE PROCESSING FINAL PROJECT
+=====================================
+
+Öğrenci Bilgileri:
+-----------------
+Ad Soyad: Yahya Kocaman
+Öğrenci No: B2180.060025
+Bölüm: Yazılım Geliştirme
+Ders: UYG332 - Image Processing
+Eğitmen: Batuhan Hangün
+
+GitHub Repository Link:
+-----------------------
+https://github.com/yahyaKocaman/ImageProcessingFinalProject.git
+
+
+Proje İçeriği:
+--------------
+- UYG332_Image_Processing_Final_Project.ipynb (Ana proje dosyası)
+- README.md (Proje açıklaması ve kullanım kılavuzu)
+- requirements.txt (Gerekli kütüphaneler)
+- images/ klasörü (Görüntü dosyaları)
+
