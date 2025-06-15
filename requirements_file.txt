@@ -1,0 +1,21 @@
+# UYG332 Image Processing Final Project - Gerekli Kütüphaneler
+# Bu dosyayı kullanarak: pip install -r requirements.txt
+
+# Temel görüntü işleme kütüphanesi
+opencv-python>=4.5.0
+
+# Sayısal hesaplamalar için
+numpy>=1.21.0
+
+# Görselleştirme için
+matplotlib>=3.3.0
+
+# Bilimsel hesaplamalar için
+scipy>=1.7.0
+
+# Jupyter Notebook için 
+jupyter>=1.0.0
+notebook>=6.0.0
+
+# Python versiyonu gereksinimleri:
+# Python >= 3.7
